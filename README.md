@@ -9,12 +9,9 @@ Chose a private and public message. The private message will be converted into b
 
 The default characters:
 
-"\u2060", #WORD JOINER
-- as " " <br>
-"\u200B", #ZERO WIDTH SPACE
-- as 0 <br>
-"\u200C", #ZERO WIDTH NON-JOINER
-- as 1 <br>
+"\u2060", #WORD JOINER - as " " <br>
+"\u200B", #ZERO WIDTH SPACE - as 0 <br>
+"\u200C", #ZERO WIDTH NON-JOINER - as 1 <br>
 
 
 All possible characters:
