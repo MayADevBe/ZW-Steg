@@ -31,6 +31,7 @@ All possible characters:
 "\u2063"  #INVISIBLE SEPARATOR <br>
 
 ## How to run
+- use python >= 3.10
 - download the python file
 - run `python3 zw_steg.py`
 
