@@ -2,7 +2,7 @@
 Python Command-Line Tool for Zero-Width Characters Steganography. <br>
 Hide text in other text using invisible zero-width unicode characters.
 
-Read more in my [blog post](https://mayadevbe.me/posts/zw_steg/).
+Read more in my [blog post](https://mayadevbe.me/posts/projects/zw_steg/).
 
 ## How it Works
 Choose a private and public message. The private message will be converted into binary data. The binary data will be mapped to three Zero-Width Characters. I will then be appended to the public message. The result is the public message with a hidden message‌‌​‌​​​⁠‌‌‌​‌​​⁠‌‌‌​‌​​⁠‌‌‌​​​​⁠‌‌‌​​‌‌⁠‌‌‌​‌​⁠‌​‌‌‌‌⁠‌​‌‌‌‌⁠‌‌‌​‌‌‌⁠‌‌‌​‌‌‌⁠‌‌‌​‌‌‌⁠‌​‌‌‌​⁠‌‌‌‌​​‌⁠‌‌​‌‌‌‌⁠‌‌‌​‌​‌⁠‌‌‌​‌​​⁠‌‌‌​‌​‌⁠‌‌​​​‌​⁠‌‌​​‌​‌⁠‌​‌‌‌​⁠‌‌​​​‌‌⁠‌‌​‌‌‌‌⁠‌‌​‌‌​‌⁠‌​‌‌‌‌⁠‌‌‌​‌‌‌⁠‌‌​​​​‌⁠‌‌‌​‌​​⁠‌‌​​​‌‌⁠‌‌​‌​​​⁠‌‌‌‌‌‌⁠‌‌‌​‌‌​⁠‌‌‌‌​‌⁠‌‌​​‌​​⁠‌​‌​​​‌⁠‌‌‌​‌‌‌⁠‌‌​‌​​⁠‌‌‌​‌‌‌⁠‌‌‌​​‌⁠‌​‌​‌‌‌⁠‌‌​​‌‌‌⁠‌​‌‌​​​⁠‌‌​​​‌‌⁠‌​‌​​​‌⁠‌​​‌‌​⁠‌‌​​​​‌⁠‌‌​​​‌​⁠‌​‌‌‌‌‌⁠‌‌​​​‌‌⁠‌‌​‌​​​⁠‌‌​​​​‌⁠‌‌​‌‌‌​⁠‌‌​‌‌‌​⁠‌‌​​‌​‌⁠‌‌​‌‌​​⁠‌‌‌‌​‌⁠‌​‌​​‌​⁠‌‌​‌​​‌⁠‌‌​​​‌‌⁠‌‌​‌​‌‌⁠‌​​​​​‌⁠‌‌‌​​‌‌⁠‌‌‌​‌​​⁠‌‌​‌‌​​⁠‌‌​​‌​‌⁠‌‌‌‌​​‌ through invisible/hidden unicode characters.
